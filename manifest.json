@@ -1,7 +1,7 @@
 {
   "vendor": "travellog",
   "name": "rewards",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Rewards",
   "description": "Rewards component",
   "defaultLocale": "pt-BR",
